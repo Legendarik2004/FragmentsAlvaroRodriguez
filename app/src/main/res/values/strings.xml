@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FragmentsAlvaroRodriguez</string>
+
+    <string name="primero">Primero</string>
+    <string name="segundo">Segundo</string>
+    <string name="tercero">Tercero</string>
+    <string name="cuarto">Cuarto</string>
+    <string name="quinto">Quinto</string>
+    <string name="sexto">Sexto</string>
+    <string name="septimo">Septimo</string>
+    <string name="octavo">Octavo</string>
+    <string name="noveno">Noveno</string>
+
+    <string name="second">Second</string>
+    <string name="fifth">Fifth</string>
+    <string name="eigth">Eigth</string>
+
+    <string name="ir_primero">Ir Primero</string>
+    <string name="ir_segundo">Ir Segundo</string>
+    <string name="ir_tercero">Ir Tercero</string>
+    <string name="ir_cuarto">Ir Cuarto</string>
+    <string name="ir_quinto">Ir Quinto</string>
+    <string name="ir_sexto">Ir Sexto</string>
+    <string name="ir_septimo">Ir Septimo</string>
+    <string name="ir_octavo">Ir Octavo</string>
+    <string name="ir_noveno">Ir Noveno</string>
+
+</resources>
